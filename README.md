@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👨‍💻 All of my projects are available at [bit.ly/3Ru7lJi](bit.ly/3Ru7lJi)
+- 👨‍💻 All of my projects are available at [https://bit.ly/3Ru7lJi](https://bit.ly/3Ru7lJi)
 
-- 📝 I regularly write articles on [moyinfesobi.hashnode.dev](moyinfesobi.hashnode.dev)
+- 📝 I regularly write articles on [https://moyinfesobi.hashnode.dev](https://moyinfesobi.hashnode.dev)
 
 - 💬 Ask me about **React, React Native and Flutter**
 
