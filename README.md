@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/moyinfesobi" target="blank"><img src="https://img.shields.io/twitter/follow/moyinfesobi?logo=twitter&style=for-the-badge" alt="moyinfesobi" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Swift**
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/3Ru7lJi](https://bit.ly/3Ru7lJi)
 
